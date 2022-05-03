@@ -1,9 +1,0 @@
-
-
-to do
-
-mettre le fichier keys dans git ignore
-commenter le code
-retest full run
-upload github
-
